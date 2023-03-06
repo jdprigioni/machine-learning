@@ -1,1 +1,2 @@
-# machine-learning
+# About
+I am a Software Engineer with over nine years of experience in the IT industry. I own a Bachelor’s Degree in Computer Science, I'm a Sr. Mobile developer and like to keep learning and be up-to-date with new technologies. I have some experience on Machine learning and I'm on the way to improve it, so in this repository you will find my machine learning algorithms resolutions to different problems that I found on internet.
